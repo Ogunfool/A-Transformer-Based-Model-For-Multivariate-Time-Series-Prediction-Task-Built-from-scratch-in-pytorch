@@ -1,1 +1,1 @@
-# A-Transformer-Based-Model-For-Multivariate-Time-Series-Prediction-Task-Built-From-Scratch-in-Pytorch
+# An Encoder Transformer-based Model was developed and it was used for sentiment analysis and multi-variate time series regression tasks.
